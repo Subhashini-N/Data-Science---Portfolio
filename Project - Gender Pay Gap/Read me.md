@@ -1,0 +1,1 @@
+The project involves in validating if pay gap exists in IT industry based on gender. Exploratory Data Analysis was performed in the survey dataset obtained from Kaggle and a linear regression model was built to verify if null hypothesis hold true or alternate hypothesis is true.
