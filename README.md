@@ -5,7 +5,7 @@ Project 1 - Credit Risk Analysis
 The project involves in building a classification model to determine the credit worthiness of a loan applicant and the likelihood of charge off of a     loan application. 
 
 
-https://github.com/Subhashini-N/DataScience-Portfolio/tree/main/Project%2001
+https://github.com/Subhashini-N/DataScience-Portfolio/tree/main/Project%20-%20Credit%20Risk%20Analysis
 
 
 
