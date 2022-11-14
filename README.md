@@ -69,3 +69,10 @@ The project involves in building a descriptive model to classify the ALS patient
 
 https://github.com/Subhashini-N/DataScience-Portfolio/tree/main/Project%20-%20Descriptive%20Modeling
 
+
+Project 11 - NLP Text Analytics
+
+The project involves in performing text analytics and topic modeling on Selected poems by Robert Frost.
+
+
+
